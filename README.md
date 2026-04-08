@@ -2,7 +2,7 @@
 ![WhatsApp Image 2026-04-08 at 10 31 06 AM](https://github.com/user-attachments/assets/35f5dba8-ee90-4f95-b817-1f5bb2c4a95b)
 
 
-<h1 align="center">Hi 👋, I'm Habibur Rahman Sunny</h1>
+<h1 align="center">Hi, I'm Habibur Rahman Sunny</h1>
 <h3 align="center">A passionate learner of frontend development from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibur-rahman-sunny&label=Profile%20views&color=0e75b6&style=flat" alt="habibur-rahman-sunny" /> </p>
