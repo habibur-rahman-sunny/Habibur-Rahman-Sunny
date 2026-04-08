@@ -1,4 +1,5 @@
-<img width="1264" height="842" alt="Gemini_Generated_Image_o6sovuo6sovuo6so" src="https://github.com/user-attachments/assets/114d19d6-4de1-4f4e-a712-ae06b145f07f" />
+<img width="834" height="325" alt="image" src="https://github.com/user-attachments/assets/2188a321-1f41-4938-ad38-f4aa885dff3e" />
+
 
 <h1 align="center">Hi 👋, I'm Habibur Rahman Sunny</h1>
 <h3 align="center">A passionate learner of frontend development from Bangladesh</h3>
