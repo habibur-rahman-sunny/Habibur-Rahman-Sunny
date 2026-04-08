@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibur-rahman-sunny&label=Profile%20views&color=0e75b6&style=flat" alt="habibur-rahman-sunny" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibur-rahman-sunny" alt="habibur-rahman-sunny" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript with Programming Hero.**
 
 - 📫 How to reach me **mdhabiburrahmansunny646@gmail.com**
