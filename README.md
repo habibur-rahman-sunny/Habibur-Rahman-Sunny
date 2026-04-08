@@ -1,4 +1,5 @@
-<img width="834" height="325" alt="image" src="https://github.com/user-attachments/assets/2188a321-1f41-4938-ad38-f4aa885dff3e" />
+
+![WhatsApp Image 2026-04-08 at 10 31 06 AM](https://github.com/user-attachments/assets/35f5dba8-ee90-4f95-b817-1f5bb2c4a95b)
 
 
 <h1 align="center">Hi 👋, I'm Habibur Rahman Sunny</h1>
@@ -24,3 +25,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habibur-rahman-sunny&show_icons=true&locale=en" alt="habibur-rahman-sunny" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habibur-rahman-sunny&" alt="habibur-rahman-sunny" /></p>
+
+- 🌱 I’m currently learning **JavaScript with Programming Hero.**
+- I am a learner from Bangladesh  
+Passionate about learning frontend development and building modern web applications  
+🟦 Current Activities  
+- 🔭 I’m currently exploring JavaScript  
+- 🌱 I’m working on a React-based project  
+- 💡 Improving my React and frontend skills  
+
